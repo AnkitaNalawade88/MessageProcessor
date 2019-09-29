@@ -1,0 +1,91 @@
+apple at 10p
+20 sales of apples at 10p each
+Add 20p apples
+apple at 10p
+20 sales of apples at 10p each
+Add 20p apples
+apple at 10p
+20 sales of kiwi at 10p each
+banana at 10p
+20 sales of banana at 10p each
+cherry at 10p
+20 sales of oranges at 10p each
+orange at 10p
+20 sales of mango at 10p each
+pineapple at 10p
+5 sales of litchie at 5p each
+strawberry at 5p
+2 sales of grapes at 15p each
+grapes at 15p
+Watermelon at 20p
+25 sales of peach at 20p each
+apple at 10p
+Add 2p mango
+Add 3p kiwi
+Subtract 5p apples
+apple at 10p
+20 sales of apples at 10p each
+Add 20p apples
+apple at 10p
+20 sales of apples at 10p each
+Add 20p apples
+apple at 10p
+20 sales of kiwi at 10p each
+banana at 10p
+20 sales of banana at 10p each
+cherry at 10p
+20 sales of oranges at 10p each
+orange at 10p
+20 sales of mango at 10p each
+pineapple at 10p
+5 sales of litchie at 5p each
+apple at 10p
+20 sales of apples at 10p each
+Multiply 20p litchie
+apple at 10p
+20 sales of kiwi at 10p each
+banana at 10p
+Add 5p mango
+Subtract 5p banana
+12 sales of grapes
+20 sales of banana at 10p each
+cherry at 10p
+20 sales of oranges at 10p each
+orange at 10p
+20 sales of mango at 10p each
+pineapple at 10p
+5 sales of litchie at 5p each
+apple at 10p
+20 sales of apples at 10p each
+Add 20p apples
+apple at 10p
+20 sales of apples at 10p each
+Add 20p apples
+apple at 10p
+20 sales of kiwi at 10p each
+banana at 10p
+20 sales of banana at 10p each
+cherry at 10p
+20 sales of oranges at 10p each
+orange at 10p
+20 sales of mango at 10p each
+pineapple at 10p
+5 sales of litchie at 5p each
+20 sales of apples at 10p each
+Add 20p apples
+apple at 10p
+20 sales of kiwi at 10p each
+banana at 10p
+20 sales of banana at 10p each
+20 sales of apples at 10p each
+Add 20p apples
+apple at 10p
+20 sales of kiwi at 10p each
+banana at 10p
+20 sales of banana at 10p each
+20 sales of apples at 10p each
+Add 20p apples
+apple at 10p
+20 sales of kiwi at 10p each
+banana at 10p
+20 sales of banana at 10p each

@@ -1,0 +1,6 @@
+com\jpmorgan\processor\AdjustPrice.class
+com\jpmorgan\processor\MessageParser.class
+com\jpmorgan\SalesMessageProcessor.class
+com\jpmorgan\processor\Product.class
+com\jpmorgan\processor\SalesLog.class
+com\jpmorgan\processor\Sales.class
